@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T15:39:16.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BkoxDZZTMu4g0byd4UOh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T15:41:11.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ixcpe8Pc2FoTJ75ZxFOG" version="20.5.3" type="github">
   <diagram id="FV3sa3jDiLVzyXzBB1YZ" name="Trang-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="qDnMWLUmNAJAwntzpFPh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDnMWLUmNAJAwntzpFPh-1" target="qDnMWLUmNAJAwntzpFPh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qDnMWLUmNAJAwntzpFPh-1" value="Upload hình ảnh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qDnMWLUmNAJAwntzpFPh-1" value="Upload image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="30" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qDnMWLUmNAJAwntzpFPh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDnMWLUmNAJAwntzpFPh-2" target="qDnMWLUmNAJAwntzpFPh-3">
