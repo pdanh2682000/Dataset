@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T14:02:14.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="IDQPn7cK8AMG26nskX03" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T14:03:36.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="pf9wXuIYDpJsyebvv1PM" type="github">
   <diagram id="xzRN0CGQPNXhiewKeK5f" name="Trang-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="FiBfrUh4_8Hw4H_isQ-_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="597" y="90" width="203" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="FiBfrUh4_8Hw4H_isQ-_-9" value="Web Server Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FiBfrUh4_8Hw4H_isQ-_-9" value="Web Server Python&lt;br&gt;(http://127.0.0.1:5000)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="597" y="90" width="203" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FiBfrUh4_8Hw4H_isQ-_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FiBfrUh4_8Hw4H_isQ-_-10" target="FiBfrUh4_8Hw4H_isQ-_-11">
@@ -81,7 +81,7 @@
         <mxCell id="FiBfrUh4_8Hw4H_isQ-_-18" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-10" y="90" width="203" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="FiBfrUh4_8Hw4H_isQ-_-19" value="Web Server Java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FiBfrUh4_8Hw4H_isQ-_-19" value="Web Server Java&lt;br&gt;(http://127.0.0.1:8080)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="90" width="203" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FiBfrUh4_8Hw4H_isQ-_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FiBfrUh4_8Hw4H_isQ-_-21">
